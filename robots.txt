@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://missionrestorationco.com/sitemap.xml
